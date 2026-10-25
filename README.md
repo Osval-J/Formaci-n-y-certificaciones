@@ -74,4 +74,8 @@ Busco oportunidades de colaboración y empleo en:
 
 ---
 
-*Este repositorio documenta mi formación en ciberseguridad. Los certificados originales y sus enlaces de verificación pueden facilitarse cuando sean necesarios.*
+*Este repositorio documenta mi formación en ciberseguridad. Los certificados originales y sus enlaces de verificación se pueden ver aqui*
+- [Foundations of Cybersecurity](https://coursera.org/verify/UB4AA4JEKX1L)
+- [Play It Safe: Manage Security Risks](https://coursera.org/verify/C8CHPU65RP0N)
+- [Connect and Protect: Networks and Network Security](https://coursera.org/verify/Y258Q7CEU2NR)
+
