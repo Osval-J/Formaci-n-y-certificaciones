@@ -1,4 +1,4 @@
-# 🛡️ # Formación y Certificaciones en Inteligencia Artificial, Automatización y Desarrollo No-Code/Low-Code
+# 🛡️ Formación y Certificaciones en Inteligencia Artificial, Automatización y Desarrollo No-Code/Low-Code
 
 ## 👨‍💻 Perfil profesional
 
